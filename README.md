@@ -33,3 +33,4 @@ __Step by step tutorial that I follow:__ [_TensorFlow Object Detection API tutor
 This is final result archieving after 35,000 steps and take roughly 13 hours to train.
 
 ### Image Detection
+![Result image of imageDetection.py](https://github.com/Insignite/TensorFlow-Object-Detection-API/blob/master/workspace/training_demo/resultDisplay/pictureRecognition.PNG)
