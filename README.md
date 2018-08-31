@@ -30,7 +30,11 @@ __Step by step tutorial that I follow:__ [_TensorFlow Object Detection API tutor
 
 ## Result
 
-This is final result archieving after 35,000 steps and take roughly 13 hours to train.
+This is final result archieving after 35,000 steps and take roughly 13 hours to train. SSD model have decent speed recognition but the trade off is accuracy. The model has easy time recognize 9, 10, A, and Jack, as the result below show. It clearly show that the model doesn't have low enough loss to define between Jack, Queen, and king even with 35,000 steps. _Real-time recognition_ is also available by running:
+```
+(Activate tensorflow_gpu if you has yet to do so and nagivate to __.\workspace\training_demo__ folder)
+python webcamDetection.py
+```
 
 ### Image Detection
 ![Result image of imageDetection.py](https://github.com/Insignite/TensorFlow-Object-Detection-API/blob/master/workspace/training_demo/resultDisplay/pictureDetectionResult.PNG)
