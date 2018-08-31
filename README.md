@@ -36,4 +36,4 @@ This is final result archieving after 35,000 steps and take roughly 13 hours to 
 ![Result image of imageDetection.py](https://github.com/Insignite/TensorFlow-Object-Detection-API/blob/master/workspace/training_demo/resultDisplay/pictureDetectionResult.PNG)
 
 ### Video Detection
-![Result video of videoDetection.flv](https://github.com/Insignite/TensorFlow-Object-Detection-API/blob/master/workspace/training_demo/resultDisplay/videoDetectionResult.flv)
+![Result video of videoDetection.gif](https://github.com/Insignite/TensorFlow-Object-Detection-API/blob/master/workspace/training_demo/resultDisplay/VideoDetectionGIF.gif)
